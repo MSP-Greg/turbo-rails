@@ -15,7 +15,7 @@ gem "sprockets-rails"
 
 gem 'rake'
 gem 'byebug'
-gem 'puma'
+gem 'puma', '5.6.5'
 
 group :development, :test do
   gem 'importmap-rails'
